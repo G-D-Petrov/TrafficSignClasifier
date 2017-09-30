@@ -1,2 +1,2 @@
-model_checkpoint_path: "custom_3"
-all_model_checkpoint_paths: "custom_3"
+model_checkpoint_path: "Final2.ckpt"
+all_model_checkpoint_paths: "Final2.ckpt"
