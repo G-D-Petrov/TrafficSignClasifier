@@ -42,6 +42,7 @@ Here is an exploratory visualization of the data set. It is a bar chart showing 
 
 ### Design and Test a Model Architecture
 
+#### 1. Preprocessing
 I decided not work with the images as normal RGB images as colors are import for many of the signs and this is data that I think would benefit the model. The only form of preprocessing I did was to use Mean subtraction and Normalization.
 
 I chose not to do any data augmentation as I wanted to see how good of a model I can make only based on the provided data.
